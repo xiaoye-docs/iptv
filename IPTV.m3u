@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-APP APTV
 #EXT-X-APTV-TYPE remote
-#EXT-X-SUB-URL https://ghproxy.com/https://raw.githubusercontent.com/xindoc/iptv/main/IPTV.m3u
+#EXT-X-SUB-URL https://ghproxy.com/https://raw.githubusercontent.com/xiaoye-docs/iptv/main/IPTV.m3u
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",﻿CCTV-1高清
 http://192.168.1.1:4022/udp/239.93.0.184:5140
